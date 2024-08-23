@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiNetBi", "ApiNetBi\ApiNetBi.csproj", "{164A37C2-2CC7-4050-98F7-C308E7771046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{164A37C2-2CC7-4050-98F7-C308E7771046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{164A37C2-2CC7-4050-98F7-C308E7771046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{164A37C2-2CC7-4050-98F7-C308E7771046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{164A37C2-2CC7-4050-98F7-C308E7771046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B639BD94-B96A-4E95-A9FB-8D8EFD34645F}
+	EndGlobalSection
+EndGlobal
